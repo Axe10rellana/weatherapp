@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e52d20cf.chunk.css",
+    "main.js": "/static/js/main.db84ae97.chunk.js",
+    "main.js.map": "/static/js/main.db84ae97.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca32d317.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca32d317.js.map",
+    "static/js/2.710e12e7.chunk.js": "/static/js/2.710e12e7.chunk.js",
+    "static/js/2.710e12e7.chunk.js.map": "/static/js/2.710e12e7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e52d20cf.chunk.css.map": "/static/css/main.e52d20cf.chunk.css.map",
+    "static/js/2.710e12e7.chunk.js.LICENSE.txt": "/static/js/2.710e12e7.chunk.js.LICENSE.txt",
+    "static/media/humidity.47dcae0d.jpg": "/static/media/humidity.47dcae0d.jpg",
+    "static/media/location.3393bb94.png": "/static/media/location.3393bb94.png",
+    "static/media/temperature.0c07578a.jpg": "/static/media/temperature.0c07578a.jpg",
+    "static/media/weather.41709da0.svg": "/static/media/weather.41709da0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca32d317.js",
+    "static/js/2.710e12e7.chunk.js",
+    "static/css/main.e52d20cf.chunk.css",
+    "static/js/main.db84ae97.chunk.js"
+  ]
+}
