@@ -23,7 +23,7 @@
             children: Object(u.jsx)("header", {
               className: "text-center header-style",
               children: Object(u.jsx)("a", {
-                href: "/",
+                href: "https://Axe10rellana.github.io/weatherapp/weatherapp",
                 className: "navbar-brand",
                 children: "WeatherApp",
               }),
